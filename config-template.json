@@ -1,0 +1,6 @@
+{
+    "username": "exampleUsername",
+    "password": "examplePassword",
+    "rooms": ["trivia", "Scholastic", "anythinggoes"],
+    "avatar": "supernerd" 
+}

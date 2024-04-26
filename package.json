@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "katex": "^0.16.10",
+    "mathjax-node-svg2png": "^2.0.0",
+    "ps-client": "^3.5.0"
+  }
+}
